@@ -2,7 +2,6 @@
 
 # *.txt
 tempfile.txt
-.DS_Store
 *.zip
 *.gz
 log/*.log
