@@ -10,3 +10,4 @@ log/*.log[0-9]
 asstes/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
+.idea/
